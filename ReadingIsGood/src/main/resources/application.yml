@@ -1,0 +1,13 @@
+swagger:
+  api-key:
+  app-info:
+    name: demo
+    description: Test project.
+    version: V1
+    term-of-service-url: /
+    license: License
+    license-url: /
+    contact:
+      name: berat
+      url: https://github.com/
+      email: test@mail
